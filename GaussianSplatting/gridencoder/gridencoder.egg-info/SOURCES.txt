@@ -1,0 +1,9 @@
+setup.py
+/home/zhike/YF/Gaussian_3D/prolificdreamer-main/gridencoder/src/bindings.cpp
+/home/zhike/YF/Gaussian_3D/prolificdreamer-main/gridencoder/src/gridencoder.cu
+/home/zhike/YF/SklarDreamer/GaussianSplatting/gridencoder/src/bindings.cpp
+/home/zhike/YF/SklarDreamer/GaussianSplatting/gridencoder/src/gridencoder.cu
+gridencoder.egg-info/PKG-INFO
+gridencoder.egg-info/SOURCES.txt
+gridencoder.egg-info/dependency_links.txt
+gridencoder.egg-info/top_level.txt
