@@ -1,0 +1,2 @@
+Store the pth and ply files from Step 4.
+  
